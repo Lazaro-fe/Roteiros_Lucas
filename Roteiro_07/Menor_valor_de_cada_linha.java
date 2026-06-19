@@ -1,3 +1,4 @@
+package Roteiro_07;
 import java.util.Scanner;
 
 public class Menor_valor_de_cada_linha {
