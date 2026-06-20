@@ -1,3 +1,4 @@
+package Roteiro_07;
 import java.util.Scanner;
 
 public class Loja {
